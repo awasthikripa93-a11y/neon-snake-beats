@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake & Beats",
+  "description": "A retro-future fusion of a synthwave music player and a neon snake game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Snake Game", "Music Player", "Neon Visuals"]
+}
